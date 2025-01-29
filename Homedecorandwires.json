@@ -1,0 +1,12 @@
+{
+    "blocked_ips": [
+        "192.168.1.1",
+        "203.0.113.5"
+    ],
+    "blocked_hwids": [
+        "HWID-123456789"
+    ],
+    "blocked_usernames": [
+        "FOS_wkz"
+    ]
+}
